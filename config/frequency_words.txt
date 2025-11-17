@@ -34,6 +34,12 @@ Anthropic
 揭阳
 潮汕
 
+虚拟货币
+比特币
+btc
+eth
+okb
+
 AMD
 
 iphone
