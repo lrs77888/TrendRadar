@@ -16,14 +16,7 @@ sora
 claude
 Anthropic
 
-科技
-
 自动驾驶
-
-芯片
-光刻机
-
-核能
 
 新质生产力
 
@@ -34,12 +27,6 @@ Anthropic
 揭阳
 潮汕
 
-微软
-Microsoft
-
-英伟达
-NVIDIA
-
 GLM
 kimi
 qwen
@@ -48,11 +35,11 @@ MiniMax
 DeepSeek
 
 虚拟货币
+加密货币
 比特币
+区块链
+
 btc
 eth
-
 okx
 okb
-
-区块链
