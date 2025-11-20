@@ -4,21 +4,12 @@ ai
 
 机器人
 
-谷歌
-google
 gemini
-deepmind
-
 chatgpt
 openai
 sora
-
 claude
 Anthropic
-
-自动驾驶
-
-新质生产力
 
 房地产
 房子
