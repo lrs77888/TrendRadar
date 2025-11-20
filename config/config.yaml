@@ -140,8 +140,8 @@ platforms:
     name: "Hacker News"
   - id: "solidot"
     name: "Solidot"
-  - id: "v2ex"
-    name: "V2EX"
+  # - id: "v2ex"
+  #   name: "V2EX"
   - id: "nowcoder"
     name: "牛客网"
   - id: "pcbeta"
@@ -152,8 +152,8 @@ platforms:
     name: "ProductHunt"
 
   # === 其他/工具类 ===
-  - id: "chongbuluo"
-    name: "虫部落"
+  # - id: "chongbuluo"
+  #   name: "虫部落"
 
   # ======================================================
   # 暂时失败的渠道（可能需要修复或接口已变更）
